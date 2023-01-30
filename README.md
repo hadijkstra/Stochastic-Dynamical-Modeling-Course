@@ -1,3 +1,1 @@
-# Stochastic Dynamical Modeling 
- 
 For many problems in the environmental sciences, deterministic dynamical models have their limitations as possibly relevant processes/scales  are  not resolved (or not considered).  Often  these unresolved processes/scales can be considered to have stochastic properties. Taking these into  account leads to stochastic dynamical  models from which the statistics of the resolved scales can be determined quite efficiently. In this course, an elementary introduction to stochastic dynamical modeling is provided  with its application to environmental sciences problems. Focus will be on examples and both analytic calculations and numerical (python) computations.
